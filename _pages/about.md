@@ -278,7 +278,7 @@ Publications
 </div>
 
 <div class="publication-card non-featured">
-    <img src="images/PAIWorld.png" alt="PAIWorld" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/paiWorld.png" alt="PAIWorld" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation</strong><br>
         <i style="font-size: 13px;">
