@@ -7,7 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am an undergraduate (2022-2026) at Xidian University and incoming Phd at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/). Previously I worked at [ByteDance Seed](https://seed.bytedance.com/en/). I was also an RA at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
+I am a fourth-year undergraduate student at [Tianjin University of Technology](https://www.tjut.edu.cn/), advised by [Prof. Jianhua Zhang](https://cs.tjut.edu.cn/info/1226/1540.htm) and [Prof. Xu Cheng](https://cs.tjut.edu.cn/info/1211/2197.htm). I will pursue my M.S. degree at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), with research training at the [Institute of AI for Industry (IAII)](https://iaii.cas.cn/), under the supervision of [Prof. Chunhe Song](https://iaii.cas.cn/rcdw/yjy/202505/t20250522_7790187.html). I am also involved in research on world models and embodied intelligence with [Prof. Kai Xu](https://kevinkaixu.net/) at IAII, and work as a research assistant with [Prof. Hao Tang](https://ha0tang.github.io/) at Peking University.
+
+My research interests include world models, embodied AI, and reinforcement learning. My long-term goal is to build generalizable world models for robotic agents, enabling them to better understand, predict, and interact with the physical world, and ultimately serve humans in real-world scenarios.
+
+
 
 News
 ---------------
