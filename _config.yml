@@ -21,7 +21,7 @@ repository               : "sediment1024/sediment1024.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "sediment.png"
   name             : "Kexu Cheng 成科旭"
   pronouns         : "He/Him"  
   bio              : "为者常成，行者常至"
