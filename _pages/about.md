@@ -7,9 +7,10 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am a fourth-year undergraduate student at [Tianjin University of Technology](https://www.tjut.edu.cn/), advised by [Prof. Jianhua Zhang](https://cs.tjut.edu.cn/info/1226/1540.htm) and [Prof. Xu Cheng](https://cs.tjut.edu.cn/info/1211/2197.htm). I will pursue my M.S. degree at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), with research training at the [Institute of AI for Industry (IAII)](https://iaii.cas.cn/), under the supervision of [Prof. Chunhe Song](https://iaii.cas.cn/rcdw/yjy/202505/t20250522_7790187.html). I am also involved in research on world models and embodied intelligence with [Prof. Kai Xu](https://kevinkaixu.net/) at IAII, and work as a research assistant with [Prof. Hao Tang](https://ha0tang.github.io/) at Peking University.
+I am a fourth-year undergraduate student at [Tianjin University of Technology](https://www.tjut.edu.cn/), advised by [Prof. Jianhua Zhang](https://cs.tjut.edu.cn/info/1226/1540.htm) and [Prof. Xu Cheng](https://cs.tjut.edu.cn/info/1211/2197.htm). I will pursue my M.S. degree at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn), with research training at the [Institute of AI for Industry (IAII)](https://iaii.cas.cn/), under the supervision of [Prof. Chunhe Song](https://iaii.cas.cn/rcdw/yjy/202505/t20250522_7790187.html). I am also involved in research on world models and embodied intelligence with [Prof. Kai Xu](https://kevinkaixu.net/) at IAII, and work as a research assistant with [Prof. Hao Tang](https://ha0tang.github.io/) at Peking University.
 
-My research interests include world models, embodied AI, and reinforcement learning. My long-term goal is to build generalizable world models for robotic agents, enabling them to better understand, predict, and interact with the physical world, and ultimately serve humans in real-world scenarios.
+🎯 My research interests include world models, embodied AI, and reinforcement learning. My long-term goal is to build generalizable world models for robotic agents, enabling them to better understand, predict, and interact with the physical world, and ultimately serve humans in real-world scenarios.
+
 
 
 
@@ -18,8 +19,8 @@ News
 <section class="profile-list-section">
   <ul class="profile-list">
     <li class="profile-list__item">
-      <span class="profile-list__date">2026/05</span>
-      <span class="profile-list__content">Finished my internship at ByteDance Seed.</span>
+      <span class="profile-list__date">2026/06</span>
+      <span class="profile-list__content">🎉 PhysRAG have been accepted to ECCV 2026!</span>
     </li>
   </ul>
 </section>
@@ -29,13 +30,15 @@ Experience
 
 <div class="experience-container">
   <div class="experience-card">
-      <img src="images/HKU.png" alt="HKU logo" class="experience-logo">
+      <img src="images/ICT.png" alt="ICT logo" class="experience-logo">
       <div class="experience-info">
-          <strong>The University of Hong Kong</strong><br>
+          <strong>Institute of Computing Technology, Chinese Academy of Sciences</strong><br>
           Sep 2026 - <br>
-          Phd at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
+          M.S. Student with research training at 
+          <a href="https://iaii.cas.cn/" target="_blank"><em>IAII</em></a>
       </div>
   </div>
+</div>
 
   <div class="experience-card">
       <img src="images/bytedance.png" alt="Seed logo" class="experience-logo">
@@ -55,14 +58,14 @@ Experience
       </div>
   </div>
 
-  <div class="experience-card">
-      <img src="images/SJTU.png" alt="SJTU logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Shanghai Jiao Tong University</strong><br>
-          July 2024 - June 2025<br>
-          Research Assistant at <a href="https://www.mvig.org/index.html"><em>MVIG</em></a> Lab
-      </div>
-  </div>
+<div class="experience-card">
+    <img src="images/PKU.png" alt="PKU logo" class="experience-logo">
+    <div class="experience-info">
+        <strong>Peking University</strong><br>
+        Nov 2025 - May 2026<br>
+        Research Assistant
+    </div>
+</div>
 
   <div class="experience-card">
       <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
