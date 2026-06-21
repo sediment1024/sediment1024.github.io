@@ -141,39 +141,17 @@ Publications
 </div>
 
 <div class="publication-card non-featured">
-    <img src="images/paiworld.png" alt="PAIWorld" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/PAIWorld.png" alt="PAIWorld" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation</strong><br>
         <i style="font-size: 13px;">
-            Yuhang Huang,
-            Xuan Lv,
-            Junyan Xu,
-            Zhiyuan Yu,
-            Jiazhao Zhang,
-            Ruizhen Hu,
-            Wancheng Feng,
-            Shilong Zou,
-            Hewen Xiao,
-            Ziqiao Zhou,
-            Kaiyun Huang,
-            Zhiyu Peng,
-            Juzhan Xu,
-            Hang Zhao,
-            Chenyang Zhu,
-            Renjiao Yi,
-            Yifei Huang,
-            Douhui Wu,
-            Yan Zhang,
-            <span class="self-author">Kexu Cheng</span>,
-            Chunhe Song,
-            Yunzhi Xue,
-            Xiuhong Zhang,
-            Leitao Guo,
-            Yunji Chen,
-            Bin Wu,
-            Haibin Yu,
+            Yuhang Huang, Xuan Lv, Junyan Xu, Zhiyuan Yu, Jiazhao Zhang, Ruizhen Hu, 
+            Wancheng Feng, Shilong Zou, Hewen Xiao, Ziqiao Zhou, ..., 
+            Yan Zhang, <span class="self-author">Kexu Cheng</span>, ..., 
+            Chunhe Song, Yunzhi Xue, Xiuhong Zhang, Leitao Guo, Yunji Chen, Bin Wu, Haibin Yu, 
             Kai Xu<sup>✉</sup>
         </i><br>
+        <i style="font-size: 12px;">✉ Corresponding author</i><br>
         A 3D-consistent world foundation model for robotic manipulation with geometry-aware cross-view attention and 3D geometric priors.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint / Technical Report &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2606.18375" target="_blank"><em>[arxiv]</em></a>
