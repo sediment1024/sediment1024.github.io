@@ -269,7 +269,6 @@ Publications
             Hao Tang, 
             Ling Shao<sup>✉</sup>
         </i><br>
-        <i style="font-size: 12px;">† Equal contribution &nbsp;&nbsp; ✉ Corresponding author</i><br>
         A playable FPS world model framework for simulating cross-game operations in interactive FPS environments.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2605.23345" target="_blank"><em>[arxiv]</em></a>
@@ -311,7 +310,6 @@ Publications
             Haibin Yu,
             Kai Xu<sup>✉</sup>
         </i><br>
-        <i style="font-size: 12px;">✉ Corresponding author</i><br>
         A 3D-consistent world foundation model for robotic manipulation with geometry-aware cross-view attention and 3D geometric priors.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint / Technical Report &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2606.18375" target="_blank"><em>[arxiv]</em></a>
