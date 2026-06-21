@@ -150,7 +150,6 @@ Publications
             Yunji Chen, Bin Wu, Haibin Yu, 
             Kai Xu<sup>✉</sup>
         </i><br>
-        <i style="font-size: 12px;">✉ Corresponding author</i><br>
         A 3D-consistent world foundation model for robotic manipulation with geometry-aware cross-view attention and 3D geometric priors.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint / Technical Report &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2606.18375" target="_blank"><em>[arxiv]</em></a>
