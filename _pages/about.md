@@ -67,25 +67,16 @@ Experience
     </div>
 </div>
 
-  <div class="experience-card">
-      <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Xidian University</strong><br>
-          Sep 2022 - July 2026<br>
-          Rank 4/174, <b>National Scholarship</b><br>
-          B.E at <a href="https://sai.xidian.edu.cn"><em>SAI</em></a> & RA at <a href="https://web.xidian.edu.cn/mggong/"><em>OMEGA</em></a> Lab
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/ssy.png" alt="ssy logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Hubei Wuchang Experimental High School</strong><br>
-          Sep 2019 - June 2022<br>
-          那是一段小有遗憾的幸福时光.
-      </div>
-  </div>
+<div class="experience-card">
+    <img src="images/tjut.png" alt="TJUT logo" class="experience-logo">
+    <div class="experience-info">
+        <strong>Tianjin University of Technology</strong><br>
+        Sep 2022 - July 2026<br>
+        B.E. in Data Science and Big Data Technology
+    </div>
 </div>
+
+
 
 Publications
 --------------
@@ -259,38 +250,75 @@ Publications
 </div>
 
 <div class="publication-card non-featured">
-    <img src="images/GAP.png" alt="RIaa" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/scope.png" alt="SCOPE" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification</strong><br>
-       <i style="font-size: 13px;">
-    <a href="https://selen-suyue.github.io" target="_blank"><span class="self-author">Yue Su</span></a>, 
-    <a href="https://scholar.google.com/citations?user=JkQmO-kAAAAJ&hl=en" target="_blank">Hao Li</a>&dagger;, 
-    <a href="https://web.xidian.edu.cn/mggong/" target="_blank">Maoguo Gong</a>&dagger;
-    </i><br>
-    A generative physical adversarial attack on VI-ReID models perturbs modality-invariant features. <br>
-    <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
-      <a href="https://arxiv.org/abs/2410.20097"><em>[arxiv]</em></a>
+        <strong>SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models</strong><br>
+        <i style="font-size: 13px;">
+            Zizhao Tong<sup>†</sup>, 
+            Yeying Jin<sup>†✉</sup>, 
+            Hongfeng Lai<sup>†</sup>, 
+            Zeqing Wang<sup>†</sup>, 
+            Zhaohu Xing, 
+            <span class="self-author">Kexu Cheng</span>, 
+            Haoran Xu, 
+            Zhao Pu, 
+            Shangwen Zhu, 
+            Ruili Feng, 
+            Jian Zhao, 
+            Yan Zhang, 
+            Hao Tang, 
+            Ling Shao<sup>✉</sup>
+        </i><br>
+        <i style="font-size: 12px;">† Equal contribution &nbsp;&nbsp; ✉ Corresponding author</i><br>
+        A playable FPS world model framework for simulating cross-game operations in interactive FPS environments.<br>
+        <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
+        <a href="https://arxiv.org/abs/2605.23345" target="_blank"><em>[arxiv]</em></a>
+        <a href="https://z2tong.github.io/SCOPE/" target="_blank"><em>[project]</em></a>
     </div>
 </div>
 
 <div class="publication-card non-featured">
-    <img src="images/iraa.png" alt="Raa" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/PAIWorld.png" alt="PAIWorld" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>AdvDisplay: Adversarial Display Assembled by Thermoelectric Cooler for Fooling Thermal Infrared Detectors</strong><br>
-      <i style="font-size: 13px;">
-    <a href="https://scholar.google.com/citations?user=JkQmO-kAAAAJ&hl=en" target="_blank">Hao Li</a>&dagger;, 
-    <a href="https://scholar.google.com/citations?user=eX7Ra5UAAAAJ&hl=en" target="_blank">Fanggao Wan</a>, 
-    <a href="https://selen-suyue.github.io" target="_blank"><span class="self-author">Yue Su</span></a>, 
-    <a href="https://ywuchina.github.io/" target="_blank">Yue Wu</a>, 
-    <a href="https://scholar.google.com/citations?user=h4PExPwAAAAJ&hl=en" target="_blank">Mingyang Zhang</a>, 
-    <a href="https://web.xidian.edu.cn/mggong/" target="_blank">Maoguo Gong</a>&dagger;
-    </i><br>
-      Historically, infrared adversarial attacks were single-use and tough to deploy. Using TEC, we implemented efficient attacks adaptable to hardware scenarios.
-      <br>
-      <b><i style="color:#83a1c7;">AAAI 2025 &nbsp;</i></b>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34011"><em>[paper]</em></a>
+        <strong>PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation</strong><br>
+        <i style="font-size: 13px;">
+            Yuhang Huang,
+            Xuan Lv,
+            Junyan Xu,
+            Zhiyuan Yu,
+            Jiazhao Zhang,
+            Ruizhen Hu,
+            Wancheng Feng,
+            Shilong Zou,
+            Hewen Xiao,
+            Ziqiao Zhou,
+            Kaiyun Huang,
+            Zhiyu Peng,
+            Juzhan Xu,
+            Hang Zhao,
+            Chenyang Zhu,
+            Renjiao Yi,
+            Yifei Huang,
+            Douhui Wu,
+            Yan Zhang,
+            <span class="self-author">Kexu Cheng</span>,
+            Chunhe Song,
+            Yunzhi Xue,
+            Xiuhong Zhang,
+            Leitao Guo,
+            Yunji Chen,
+            Bin Wu,
+            Haibin Yu,
+            Kai Xu<sup>✉</sup>
+        </i><br>
+        <i style="font-size: 12px;">✉ Corresponding author</i><br>
+        A 3D-consistent world foundation model for robotic manipulation with geometry-aware cross-view attention and 3D geometric priors.<br>
+        <b><i style="color:#83a1c7;">ArXiv Preprint / Technical Report &nbsp;</i></b>
+        <a href="https://arxiv.org/abs/2606.18375" target="_blank"><em>[arxiv]</em></a>
+        <a href="https://guhuangai.github.io/PAIWorld-Proj" target="_blank"><em>[project]</em></a>
     </div>
 </div>
+
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
