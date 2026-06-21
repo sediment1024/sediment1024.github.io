@@ -59,7 +59,7 @@ Experience
   </div>
 
 <div class="experience-card">
-    <img src="images/PKU.png" alt="PKU logo" class="experience-logo">
+    <img src="images/PKU.webp" alt="PKU logo" class="experience-logo">
     <div class="experience-info">
         <strong>Peking University</strong><br>
         Nov 2025 - May 2026<br>
