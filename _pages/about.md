@@ -62,39 +62,6 @@ Experience
 
 Publications
 --------------
-<div class="pub-button-container">
-  <button class="pub-button active" onclick="showPublications('all')">All Publications</button>
-  <button class="pub-button" onclick="showPublications('featured')">Selected Only</button>
-</div>
-
-<div class="publication-card featured">
-  <div style="display: flex; align-items: center;">
-    <img src="https://itheresaapocalypse.github.io/images/game-multiverse.png" alt="Game multiverse survey" width="200" height="100" style="margin-right: 20px; object-fit: cover;">
-    <div>
-        <strong>Towards Generalist Game Players: An Investigation of Foundation Models in the Game Multiverse</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://itheresaapocalypse.github.io/academicpages.github.io/" target="_blank">Kuan Zhang</a>*,
-            <a href="https://li-battery-dc.github.io/" target="_blank">Dongchen Liu</a>*,
-            <a href="" target="_blank">Qiyue Zhao</a>*,
-            <a href="" target="_blank">Tianyu Xin</a>*,
-            <a href="https://selen-suyue.github.io" target="_blank"><span class="self-author">Yue Su</span></a>*,
-            <a href="" target="_blank">Haisheng Wang</a>,
-            <a href="" target="_blank">Han Yin</a>,
-            <a href="" target="_blank">Hongbo Ma</a>,
-            <a href="" target="_blank">Peize Li</a>,
-            ...,
-            <a href="https://yimingli-page.github.io/" target="_blank">Yiming Li</a>&dagger;
-        </i><br>
-        A survey of foundation models as generalist game players across datasets, models, harnesses, and benchmarks.
-        <br>
-        <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2605.09965"><em>[arXiv]</em></a>
-        <a href="https://github.com/THUSI-Lab/Awesome-LFMs-Play-Games"><em>[code]</em></a>
-    </div>
-  </div>
-</div>
-
-
 <div class="publication-card non-featured">
     <img src="images/scope.png" alt="SCOPE" width="200" height="100" style="margin-right: 20px;">
     <div>
@@ -115,6 +82,7 @@ Publications
             Hao Tang, 
             Ling Shao<sup>✉</sup>
         </i><br>
+        <i style="font-size: 12px;">† Equal contribution &nbsp;&nbsp; ✉ Corresponding author</i><br>
         A playable FPS world model framework for simulating cross-game operations in interactive FPS environments.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2605.23345" target="_blank"><em>[arxiv]</em></a>
@@ -132,16 +100,13 @@ Publications
             Yunji Chen, Bin Wu, Haibin Yu, 
             Kai Xu<sup>✉</sup>
         </i><br>
+        <i style="font-size: 12px;">✉ Corresponding author</i><br>
         A 3D-consistent world foundation model for robotic manipulation with geometry-aware cross-view attention and 3D geometric priors.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint / Technical Report &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2606.18375" target="_blank"><em>[arxiv]</em></a>
         <a href="https://guhuangai.github.io/PAIWorld-Proj" target="_blank"><em>[project]</em></a>
     </div>
 </div>
-
-
-<script src="assets/js/show_publications.js"></script>
-<script src="assets/js/pub_media_rotator.js"></script>
 
 
 Awards
