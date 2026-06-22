@@ -143,32 +143,6 @@ Publications
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
 
-Projects
---------
-<div class="project-card">
- <div style="display: flex; align-items: center;">
-    <img src="images/maniunicon.png" alt="Maniunicon" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
-ManiUniCon is a comprehensive, multi-process robotics control framework designed for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real-time. <br>
-      <b><i style="color:#83a1c7;">Universal-Control Team &nbsp;</i></b>
-      <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a>
-    </div>
-</div>
-</div>
-<div class="project-card">
- <div style="display: flex; align-items: center;">
-    <img src="images/MetaPalace.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>MetaPalace: Let you in a meta world of The Palace Museum</strong><br>
-We've done what the Old Palace official website couldn't: offering 3D artifact views with single-view reconstruction and an interactive LLM-powered tour guider using RAG technology. <br>
-      <a href="https://metapalace.xj63.fun/"><em>[website]</em></a> 
-      <a href="https://github.com/xj63/MetaPalaceSite"><em>[front-end code]</em></a>
-      <a href="https://github.com/Selen-Suyue/MetaPalace"><em>[back-end code]</em></a>
-    </div>
-</div>
-</div>
-
 
 Awards
 --------
@@ -176,38 +150,8 @@ Awards
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2025</span>
-      <span class="profile-list__content">Xiaomi Outstanding Scholarship</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025</span>
-      <span class="profile-list__content">National Scholarship</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025</span>
-      <span class="profile-list__content">Outstanding Student, Xidian University</span>
+      <span class="profile-list__content">Merit Student Award</span>
     </li>
   </ul>
 </section>
 
-Talks
---------
-<section class="profile-list-section">
-  <ul class="profile-list">
-    <li class="profile-list__item">
-      <span class="profile-list__date">2026/03</span>
-      <span class="profile-list__content">Invited to <a href="http://xhslink.com/o/74L1xM2Vw2f">Talk on RoboTion</a> about WoG.</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025/12</span>
-      <span class="profile-list__content">Invited to <a href="https://www.bilibili.com/video/BV1utBrBfED4?spm_id_from=333.788.videopod.episodes&p=9">Talk on NICE seminar</a> about Imitation Learning.</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025/12</span>
-      <span class="profile-list__content">Invited to <a href="https://b23.tv/We6FLQh">Talk on RL China</a> about DSPv2.</span>
-    </li>
-    <li class="profile-list__item">
-      <span class="profile-list__date">2025/10</span>
-      <span class="profile-list__content">Invited to <a href="https://b23.tv/PvLKNR1">Talk on 3D视觉工坊</a> about DSP and DSPv2.</span>
-    </li>
-  </ul>
-</section>
