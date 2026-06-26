@@ -123,6 +123,7 @@ Publications
         <i style="font-size: 12px;">✉ Corresponding author</i><br>
         A 3D-consistent world foundation model for robotic manipulation with geometry-aware cross-view attention and 3D geometric priors.<br>
         <b><i style="color:#83a1c7;">ArXiv Preprint / Technical Report &nbsp;</i></b>
+        <a href="https://mp.weixin.qq.com/s/DLQ2N67kFfzfV54mvdimCA" target="_blank"><em>[机器之心]</em></a>
         <a href="https://arxiv.org/abs/2606.18375" target="_blank"><em>[arxiv]</em></a>
         <a href="https://guhuangai.github.io/PAIWorld-Proj" target="_blank"><em>[project]</em></a>
     </div>
