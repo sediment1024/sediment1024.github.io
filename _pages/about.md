@@ -71,7 +71,7 @@ Publications
             <a href="https://sediment1024.github.io" target="_blank"><span class="self-author">Kexu Cheng</span></a><sup>†</sup>, 
             <a href="https://github.com/Innovationlzc" target="_blank">Zicheng Liu</a><sup>†</sup>, 
             <a href="https://gasaiyu.github.io/" target="_blank">Mingju Gao</a><sup>†</sup>, 
-            Chunhe Song<sup>✉</sup>, 
+            <a href="https://iaii.cas.cn/rcdw/yjy/202505/t20250522_7790187.html" target="_blank">Chunhe Song</a><sup>✉</sup>, 
             <a href="https://ha0tang.github.io" target="_blank">Hao Tang</a><sup>✉</sup>
         </i><br>
         <i style="font-size: 12px;">† Equal contribution &nbsp;&nbsp; ✉ Corresponding author</i><br>
