@@ -62,6 +62,29 @@ Experience
 
 Publications
 --------------
+
+<div class="publication-card featured">
+    <img src="images/physrag.png" alt="PhysRAG" width="200" height="100" style="margin-right: 20px; object-fit: cover;">
+    <div>
+        <strong>PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation</strong><br>
+        <i style="font-size: 13px;">
+            <a href="https://sediment1024.github.io" target="_blank"><span class="self-author">Kexu Cheng</span></a><sup>†</sup>, 
+            <a href="https://github.com/Innovationlzc" target="_blank">Zicheng Liu</a><sup>†</sup>, 
+            <a href="https://gasaiyu.github.io/" target="_blank">Mingju Gao</a><sup>†</sup>, 
+            Chunhe Song<sup>✉</sup>, 
+            <a href="https://ha0tang.github.io" target="_blank">Hao Tang</a><sup>✉</sup>
+        </i><br>
+        <i style="font-size: 12px;">† Equal contribution &nbsp;&nbsp; ✉ Corresponding author</i><br>
+        A retrieval-augmented video generation framework that injects physical priors from real-world reference videos into Video DiT for physics-aware generation.<br>
+        <b><i style="color:#83a1c7;">ECCV 2026</i></b>
+        <a href="https://arxiv.org/abs/2606.26916" target="_blank"><em>[arXiv]</em></a>
+        <a href="https://sediment1024.github.io/PhysRAG/" target="_blank"><em>[project]</em></a>
+        <a href="https://github.com/sediment1024/PhysRAG" target="_blank"><em>[code]</em></a>
+        <a href="https://huggingface.co/sediment1024/PhysRAG" target="_blank"><em>[model]</em></a>
+        <a href="https://huggingface.co/datasets/sediment1024/PhysRAG" target="_blank"><em>[dataset]</em></a>
+    </div>
+</div>
+
 <div class="publication-card non-featured">
     <img src="images/scope.png" alt="SCOPE" width="200" height="100" style="margin-right: 20px;">
     <div>
