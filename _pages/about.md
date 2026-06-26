@@ -79,9 +79,6 @@ Publications
         <b><i style="color:#83a1c7;">ECCV 2026</i></b>
         <a href="https://arxiv.org/abs/2606.26916" target="_blank"><em>[arXiv]</em></a>
         <a href="https://sediment1024.github.io/PhysRAG/" target="_blank"><em>[project]</em></a>
-        <a href="https://github.com/sediment1024/PhysRAG" target="_blank"><em>[code]</em></a>
-        <a href="https://huggingface.co/sediment1024/PhysRAG" target="_blank"><em>[model]</em></a>
-        <a href="https://huggingface.co/datasets/sediment1024/PhysRAG" target="_blank"><em>[dataset]</em></a>
     </div>
 </div>
 
